@@ -70,7 +70,7 @@ Let’s connect and collaborate—I'm always excited to learn and contribute to 
 
 </a>  
 
-<a href="https://github.com/Nneji123/Alien-Shooter">
+<a href="https://github.com/Nisha2592/Group_2">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 

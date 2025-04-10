@@ -23,7 +23,7 @@ Let’s connect and collaborate—I'm always excited to learn and contribute to 
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   
   <a href="" target="_blank">

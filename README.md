@@ -95,7 +95,7 @@
 
 ## Projects
 
-<a href="https://github.com/Nneji123/Website-Blocker">
+<a href="https://github.com/Nisha2592/Group_1_ML_Galaxy_zoo">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 

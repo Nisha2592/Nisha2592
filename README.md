@@ -13,7 +13,8 @@
   </p>
 
 
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
+<p >I'm a Computational Physicist with a PhD and a deep curiosity for how machine learning and high performance computing can transform scientific discovery. I'm currently pursuing a Master's in High Performance Computing (MHPC) at ICTP/SISSA in Trieste, where I'm expanding my skills in parallel programming,scientific simulations, and ML applications in physics.
+Let’s connect and collaborate—I'm always excited to learn and contribute to projects at the intersection of science, computing, and innovation!.
 </p>
 
 
